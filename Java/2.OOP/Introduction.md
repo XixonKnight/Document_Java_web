@@ -12,7 +12,7 @@
   <access modifier> class <ClassName>{}
   ```
   * Các thuộc tính(attibutes): Mô tả các trường dữ liệu cho mỗi đối tượng mà class đang định nghĩa hay lưu các tham chiếu đến đối tượng của class khác
-  ```c
+  ```java
   public class A{
     // Các trường lưu dữ liệu cho mỗi đối tượng:
     private int y, z;
